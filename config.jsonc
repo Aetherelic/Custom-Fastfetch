@@ -11,8 +11,8 @@
       "4": "#D4A843",
       "5": "#8BA888"
     },
-    "height": 48,
-    "padding": { "top": 0, "right": 7 }
+    "height": 35,
+    "padding": { "top": 1, "right": 7 }
   },
 
   "display": {
