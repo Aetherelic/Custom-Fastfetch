@@ -34,8 +34,7 @@ sudo dnf install git      # Fedora
 ### 3. Clone this repository
 
 ```bash
-git clone https://github.com/Aetherelic/Custom-Fastfetch
-cd Custom-Fastfetch
+git clone https://github.com/Aetherelic/Custom-Fastfetch.git
 ```
 
 ### 4. Copy the config files
