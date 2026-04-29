@@ -15,6 +15,7 @@ This may vary depending on the terminal used, chosen font and terminal backgroun
 Make sure you have git installed on your system, if not download it from here
 https://github.com/fastfetch-cli/fastfetch 
 
+
 Once downloaded, clone this repository or download the config files by doing the dollowing commands:
 
 git clone https://github.com/Aetherelic/Custom-Fastfetch`
