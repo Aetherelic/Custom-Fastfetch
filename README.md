@@ -17,7 +17,7 @@ https://github.com/fastfetch-cli/fastfetch
 
 Once downloaded, clone this repository or download the config files by doing the dollowing commands:
 
-```git clone https://github.com/Aetherelic/Custom-Fastfetch`
+```git clone https://github.com/Aetherelic/Custom-Fastfetch```
 
 Copy the config file (usually config.jsonc) to the fastfetch config directory:
 
