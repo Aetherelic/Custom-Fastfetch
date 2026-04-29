@@ -8,6 +8,7 @@ Features include an aesthetic colour pallet, detailed system information includi
 
 # Preview
 This may vary depending on the terminal used, chosen font and terminal background
+
 <img width="810" height="578" alt="image" src="https://github.com/user-attachments/assets/57776db0-f26e-4f3b-bf5c-7915250dcdbe" />
 
 # Installation
