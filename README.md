@@ -21,7 +21,7 @@ git clone
 
 Copy the config file (usually config.jsonc) to the fastfetch config directory:
 
- mkdir -p ~/.config/fastfetch
+``` mkdir -p ~/.config/fastfetch
  
  cp config.jsonc ~/.config/fastfetch/config.jsonc
  
