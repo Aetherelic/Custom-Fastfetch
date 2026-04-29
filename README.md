@@ -25,7 +25,7 @@ Copy the config file (usually config.jsonc) to the fastfetch config directory:
  
  ```cp config.jsonc ~/.config/fastfetch/config.jsonc`
  
-``` cp -r logo ~/.config/fastfetch/ `
+``` cp -r logo ~/.config/fastfetch/ 
  
 (Adjust the filename/path if your repo uses a different name.)
 
