@@ -1,6 +1,6 @@
 # Fastfetch Config
 
-This repository contains my personal Fastfetch config used on my main PC, tailored for a cozy, lofi kind of vibe — featuring a clean and aesthetically pleasing layout with custom logos, colors, and modules.
+This repository contains my personal Fastfetch config used on my main PC, tailored for a cozy, lofi kind of vibe featuring a clean and aesthetically pleasing layout with custom ascii art, colors, and modules.
 
 **Features include:**
 - Aesthetic colour palette
